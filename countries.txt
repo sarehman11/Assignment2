@@ -1,3 +1,6 @@
 canada
 usa
 uk
+italy
+china
+germany
